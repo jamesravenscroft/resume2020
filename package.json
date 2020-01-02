@@ -2,7 +2,7 @@
   "name": "resume2020",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jamesravenscroft3.com",
+  "homepage": "https://jamesravenscroft.github.io/resume2020/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
